@@ -1,0 +1,16 @@
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="Black">#000000</color>
+    <color name="Trans_Black">#80000000</color>
+    <color name="Trans_Black_Darker">#BB000000</color>
+    <color name="bg_TopRecipes">#C0000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="bg_slider">#3B3B3B</color>
+    <color name="bg_Panel_Category">#CCCCCC</color>
+    <color name="bg_Search">#DDDDDD</color>
+    <color name="Black_light">#333333</color>
+    <color name="sub_title">#6D6DFF</color>
+    <color name="bg_setting">#212121</color>
+    <color name="bg_list_dark">#FFE5E5E5</color>
+    
+</resources>
